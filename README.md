@@ -19,3 +19,12 @@ You can view the live demo here:
 - Smooth scrolling
 - Call-to-action buttons
 - Optimized images
+
+## ▶️ How to Run the Project
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/Moddderi/MyBike-Landing.git
+
+```
